@@ -1,4 +1,4 @@
-package org.example.reusing_classes;
+package org.exercises.reusing_classes;
 
 /*
     Exercise 13: (2) Create a class with a method that is overloaded three times. Inherit a

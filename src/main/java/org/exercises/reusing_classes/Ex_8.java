@@ -1,4 +1,4 @@
-package org.example.reusing_classes;
+package org.exercises.reusing_classes;
 
 /*
     Exercise 8: (1) Create a base class with only a non-default constructor, and a derived

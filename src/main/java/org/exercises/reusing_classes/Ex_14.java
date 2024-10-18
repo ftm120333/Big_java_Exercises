@@ -1,4 +1,4 @@
-package org.example.reusing_classes;
+package org.exercises.reusing_classes;
 /*
 
    - When you inherit, you take an existing class and make a special version of it. In general, this

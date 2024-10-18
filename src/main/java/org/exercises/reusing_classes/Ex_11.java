@@ -1,4 +1,4 @@
-package org.example.reusing_classes;
+package org.exercises.reusing_classes;
 
 /*
     Delegation: This is midway between inheritance and composition

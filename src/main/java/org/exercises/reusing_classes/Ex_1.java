@@ -1,4 +1,4 @@
-package org.example.reusing_classes;
+package org.exercises.reusing_classes;
 /*
 
 Code reuse mechanisms:
