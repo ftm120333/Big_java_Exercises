@@ -24,7 +24,7 @@ class Composing {
         this.shared.addRef();
     }
     protected void dispose() {
-        System.out.println("disposing " + this);
+       System.out.println("disposing " + this);
         shared.dispose();
     }
     public String toString() { return "Composing " + id; }
@@ -34,7 +34,7 @@ class ReferenceCounting {
         Shared shared = new Shared();
         Composing[] composing = { new Composing(shared),
                 new Composing(shared), new Composing(shared),
-                new Composing(shared), new Composing(shared) };
+                new Composing(shared), new Composing(shared), new Composing(shared) };
         for(Composing c : composing)
             c.dispose();
     }
