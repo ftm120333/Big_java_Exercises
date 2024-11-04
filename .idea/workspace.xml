@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9ab34a3-b293-4a1a-a831-43bd510b04c7" name="Changes" comment=" answering the questions 15-18, 24" />
+    <list default="true" id="c9ab34a3-b293-4a1a-a831-43bd510b04c7" name="Changes" comment="more polymorphism examples and excercises">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/AddingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/ApplesAndOrangesWithGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/AsListInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/GenericsAndUpcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/ListFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/PrintingContainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/SimpleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_1_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_27_2024_2_22_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_27_2024_2_22_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/examples/polymorphism/RTTI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/examples/polymorphism/RTTI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,18 +53,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/f.alhadabi/IdeaProjects/Big_java_Exercises",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RTTI">
-    <configuration name="Beetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.reusing_classes.Beetle" />
+  <component name="RunManager" selected="Application.ex_14">
+    <configuration name="ex_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.holding_your_objects.ex_11" />
       <module name="big_java_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.reusing_classes.*" />
+          <option name="PATTERN" value="org.exercises.holding_your_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.reusing_classes.Ex_18" />
+    <configuration name="ex_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.holding_your_objects.ex_12" />
       <module name="big_java_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.reusing_classes.*" />
+          <option name="PATTERN" value="org.exercises.holding_your_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.reusing_classes.FinalData" />
+    <configuration name="ex_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.holding_your_objects.ex_14" />
       <module name="big_java_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.reusing_classes.*" />
+          <option name="PATTERN" value="org.exercises.holding_your_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.reusing_classes.Frog" />
+    <configuration name="ex_1_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.holding_your_objects.ex_1_8" />
       <module name="big_java_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.reusing_classes.*" />
+          <option name="PATTERN" value="org.exercises.holding_your_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RTTI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.examples.polymorphism.RTTI" />
+    <configuration name="ex_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.holding_your_objects.ex_4" />
       <module name="big_java_exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.examples.polymorphism.*" />
+          <option name="PATTERN" value="org.exercises.holding_your_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,18 +128,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RTTI" />
-        <item itemvalue="Application.Beetle" />
-        <item itemvalue="Application.FinalData" />
-        <item itemvalue="Application.Ex_18" />
-        <item itemvalue="Application.Frog" />
+        <item itemvalue="Application.ex_14" />
+        <item itemvalue="Application.ex_12" />
+        <item itemvalue="Application.ex_11" />
+        <item itemvalue="Application.ex_1_8" />
+        <item itemvalue="Application.ex_4" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" answering the questions 15-18, 24" />
-    <option name="LAST_COMMIT_MESSAGE" value=" answering the questions 15-18, 24" />
+    <MESSAGE value="more polymorphism examples and excercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="more polymorphism examples and excercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -146,6 +169,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/examples/polymorphism/PolyConstructors.java</url>
           <line>9</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/ApplesAndOrangesWithoutGenerics.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/examples/holding_your_objects/AsListInference.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/exercises/holding_your_objects/ex_4.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

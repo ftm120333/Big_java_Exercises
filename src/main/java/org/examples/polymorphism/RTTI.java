@@ -25,4 +25,3 @@ public class RTTI {
         ((MoreUseful)x[0]).u(); // Exception thrown
     }
 }
-//holding_your_obgects
